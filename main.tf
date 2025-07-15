@@ -211,4 +211,3 @@ output "instance_id" {
     [aws_instance.Splunk_uf.id]
   )
 }
-
